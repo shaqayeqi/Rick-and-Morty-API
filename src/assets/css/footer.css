@@ -1,0 +1,6 @@
+.footer .list-group  {
+    --bs-list-group-color: #fff !important;
+     --bs-list-group-bg: #485c40 !important;
+    --bs-list-group-border-color: none !important; 
+    
+}
